@@ -5,7 +5,7 @@ f1.keywords:
 ms.author: efrene
 author: efrene
 manager: scotv
-ms.date: 02/19/2020
+ms.date: 03/05/2024
 audience: Admin
 ms.topic: article
 ms.service: microsoft-365-business
@@ -107,7 +107,7 @@ You can start by connecting directly to the ODATA reporting APIs from Microsoft 
 
 1. Go to **get data** \> **Other** \> **ODATA Feed** \> **Connect**.
 
-2. In the URL window enter "https://<i></i>reports.office.com/pbi/v1.0/\<tenantid\>"
+2. In the URL window, enter `https://reports.office.com/pbi/v1.0/<tenantid>`.
 
     **NOTE:**
     The reporting APIs are in preview and are subject to change until they go into production.

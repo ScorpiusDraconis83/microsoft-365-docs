@@ -9,6 +9,7 @@ ms.reviewer: nalinkla, jobailey
 audience: Admin
 ms.topic: how-to
 ms.service: microsoft-365-business
+ms.subservice: m365-commerce-marketplace
 ms.localizationpriority: medium
 ms.collection: 
 - Tier1
@@ -21,8 +22,10 @@ ms.custom:
 - okr_SMB
 - AdminSurgePortfolio
 - AdminTemplateSet
+- admindeeplinkMAC
+- GAUpdates
 description: "Learn how to buy and manage add-ons for your Microsoft 365 for business subscription."
-ms.date: 08/28/2023
+ms.date: 09/30/2024
 ---
 
 # Buy and manage add-ons in the Microsoft 365 admin center
@@ -33,10 +36,10 @@ This article only applies to customers with a Microsoft Online Subscription Agre
 
 ## Before you begin
 
-You must be a global or billing admin to do the steps described in this article. For more information, see [About admin roles](../admin/add-users/about-admin-roles.md).
+You must be at least a Billing Administrator to do the steps described in this article. For more information, see [About admin roles](../admin/add-users/about-admin-roles.md).
 
 > [!NOTE]
-> If you’re the person who signed up for the subscription, you’re automatically a global admin.
+> If you're the person who signed up for the subscription, you're automatically a Billing Administrator.
 
 ## Types of add-ons
 

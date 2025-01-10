@@ -4,10 +4,10 @@ f1.keywords: NOCSH
 ms.author: sharik
 author: SKjerland
 manager: scotv
-ms.reviewer: sharonchoi
+ms.reviewer: pawan
 ms.date: 07/17/2023
 audience: Admin
-ms.topic: article
+ms.topic: concept-article
 ms.service: microsoft-365-lighthouse
 ms.localizationpriority: medium
 ms.collection:
@@ -15,6 +15,7 @@ ms.collection:
 - scotvorg
 - M365-subscription-management
 - Adm_O365
+- essentials-manage
 ms.custom:
 - AdminSurgePortfolib
 - M365-Lighthouse                         
@@ -98,5 +99,5 @@ To use Sales Advisor, you must hold either the Executive report viewer or report
 ## Related content
 
 [Get access to Sales Advisor](m365-lighthouse-get-access-to-sales-advisor.md) (article)\
-[Understanding opportunities and data in Sales Advisor](m365-lighthouse-understanding-opportunities-and-data.md) (article)\
+[Understand opportunities and data in Sales Advisor](m365-lighthouse-understanding-opportunities-and-data.md) (article)\
 [Microsoft 365 Lighthouse – Transform](https://cloudpartners.transform.microsoft.com/partner-gtm/smb/m365-lighthouse) (Blog)

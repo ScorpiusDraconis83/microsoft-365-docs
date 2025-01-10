@@ -2,9 +2,9 @@
 title: Apply a model to a document library in Microsoft Syntex
 ms.author: chucked
 author: chuckedmonson
-manager: pamgreen
+manager: jtremper
 ms.reviewer: ssquires
-ms.date: 05/01/2023
+ms.date: 11/20/2024
 audience: admin
 ms.topic: conceptual
 ms.service: microsoft-syntex
@@ -97,7 +97,10 @@ To sync changes to one or only selected libraries:
 
 ## Apply the model to files and folder content already in the document library
 
-An applied model processes all files and folder content uploaded to the document library after it's applied. You can also do the following steps to run the model on files and folder content that already exist in the document library prior to the model being applied:
+An applied model processes all files and folder content uploaded to the document library after it's applied. You can also do the following steps to run the model on files and folder content that already exist in the document library prior to the model being applied.
+
+> [!NOTE]
+> To see custom Syntex commands like **Classify and extract** when you add a document library web part to a SharePoint site page, you must have a Syntex subscription.
 
 1. In your document library, select the files and folders that you want to be processed by your model.
 

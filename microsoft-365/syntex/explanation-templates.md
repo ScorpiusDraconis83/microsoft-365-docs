@@ -2,9 +2,9 @@
 title: Use explanation templates in Microsoft Syntex
 ms.author: chucked
 author: chuckedmonson
-manager: pamgreen
+manager: jtremper
 ms.reviewer: ssquires
-ms.date: 11/23/2022
+ms.date: 08/13/2024
 audience: admin
 ms.topic: conceptual
 ms.service: microsoft-syntex

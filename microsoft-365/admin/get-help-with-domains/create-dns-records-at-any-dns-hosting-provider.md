@@ -5,7 +5,7 @@ f1.keywords:
 ms.author: nkagole
 author: nataliekagole
 manager: scotv
-ms.date: 04/07/2023
+ms.date: 04/01/2024
 audience: Admin
 ms.topic: article
 ms.service: microsoft-365-business
@@ -47,7 +47,10 @@ If you have previously created users and would like to change their domain, foll
 > [!TIP]
 > If you need help with the steps in this topic, consider [working with a Microsoft small business specialist](https://go.microsoft.com/fwlink/?linkid=2186871). With Business Assist, you and your employees get around-the-clock access to small business specialists as you grow your business, from onboarding to everyday use.
 
-## Step 1: Add a TXT or MX record to verify you own the domain
+> [!NOTE]
+> To find your DNS hosting provider, see [Find your domain registrar - Microsoft 365 admin | Microsoft Learn.](find-your-domain-registrar.md) 
+
+## Step 1: Add a TXT or MX record to verify that you own the domain
 
 ### Recommended: Verify with a TXT record
 
@@ -88,6 +91,20 @@ Make sure that the fields are set to the following values:
 - TTL: `3600` (or your provider default)
 
 When Microsoft finds the correct MX record, your domain is verified.
+
+> [!NOTE]
+> To know how to verify your domain with Microsoft by adding TXT record and to know how to connect to Microsoft services by adding DNS records see:
+> - [Connect your DNS records at IONOS to Microsoft 365](../dns/create-dns-records-at-ionos-com.md)
+> - [Connect your DNS records at 123-reg.co.uk to Microsoft 365](../dns/create-dns-records-at-123-reg-co-uk.md)
+> - [Connect your DNS records at Amazon Web Services (AWS) to Microsoft 365](../dns/create-dns-records-at-aws.md)
+> - [Connect your DNS records at Cloudflare to Microsoft 365](../dns/create-dns-records-at-cloudflare.md)
+> - [Connect your DNS records at GoDaddy to Microsoft 365](../dns/create-dns-records-at-godaddy.md)
+> - [Connect your DNS records at Namecheap to Microsoft 365](../dns/create-dns-records-at-namecheap.md)
+> - [Connect your DNS records at Network Solutions to Microsoft 365](../dns/create-dns-records-at-network-solutions.md)
+> - [Connect your DNS records at OVH to Microsoft 365](../dns/create-dns-records-at-ovh.md)
+> - [Connect your DNS records at web.com to Microsoft 365](../dns/create-dns-records-at-web-com.md)
+>- [Connect your DNS records at Wix to Microsoft 365](../dns/create-dns-records-at-wix.md)
+>- [Create DNS records for Microsoft using Windows-based DNS](../dns/create-dns-records-using-windows-based-dns.md)
 
 ## Step 2: Add DNS records to connect Microsoft services
 

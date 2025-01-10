@@ -5,16 +5,18 @@ ms.author: kvice
 author: kelleyvice-msft
 manager: scotv
 ms.service: microsoft-365-enterprise
+ms.subservice: advanced-data-residency
 ms.topic: article
 f1.keywords:
 - NOCSH
-ms.date: 09/20/2022
-ms.reviewer: dmwmsft
+ms.date: 02/29/2024
+ms.reviewer: deanw
 ms.custom:
 - it-pro
 ms.localizationpriority: medium
 ms.collection:
 - M365-subscription-management
+- must-keep
 ---
 
 # Data Residency for Viva Topics
@@ -27,6 +29,9 @@ Capability summary: Viva Topics uses Microsoft Artificial Intelligence technolog
 
 ## Data Residency Commitments Available
 
+> [!NOTE]
+> *Viva Topics will be retired on February 22, 2025. Therefore, as of October 31, 2024, Viva Topics will no longer be a supported workload in ADR. Starting with the upcoming local region launches in Taiwan and New Zealand, Viva Topics customer data will not be migrated to new local regions, nor will new customers have Viva Topics stored in existing local regions. For more details, please visit [aka.ms/TopicsFebSupport](https://aka.ms/TopicsFebSupport).
+
 ### Advanced Data Residency add-on
 
 Required Conditions:
@@ -37,11 +42,11 @@ Required Conditions:
 
 **Commitment:**
 
-Please refer to the [ADR Commitment page](m365-dr-commitments.md#viva-topics) for the specific customer data at rest commitment for Viva Topics.
+Refer to the [ADR Commitment page](m365-dr-commitments.md#viva-topics) for the specific customer data at rest commitment for Viva Topics.
 
 ## Migration
 
-Data stored is maintained within Exchange Online, SharePoint Online, and Microsoft Teams. Migration processes are handled by the applicable/relevant workloads.
+Data stored is maintained within Exchange Online, SharePoint, and Microsoft Teams. Migration processes are handled by the applicable/relevant workloads.
 
 ## How can I determine customer data location?
 

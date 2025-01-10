@@ -15,9 +15,10 @@ metadata:
   ms.collection: 
   - M365-subscription-management
   - Adm_TOC
+  - essentials-navigation
   author: kelleyvice-msft #Required; your GitHub user alias, with correct capitalization.
   ms.author: kvice #Required; microsoft alias of author; optional team alias.
-  ms.date: 07/28/2020 #Required; mm/dd/yyyy format.
+  ms.date: 02/08/2024 #Required; mm/dd/yyyy format.
 
 # highlightedContent section (optional)
 # Maximum of 8 items
@@ -55,7 +56,7 @@ conceptualContent:
         - url: /deployoffice/plan-microsoft-365-apps
           itemType: deploy
           text: Microsoft 365 Apps for enterprise
-        - url: /intune/fundamentals/planning-guide
+        - url: /mem/intune/fundamentals/intune-planning-guide
           itemType: deploy
           text: Microsoft Intune
     # Card
@@ -67,7 +68,7 @@ conceptualContent:
         - url: /deployoffice/overview-update-channels
           itemType: concept
           text: Microsoft 365 Apps for enterprise
-        - url: /intune/apps/app-management
+        - url: /mem/intune/apps/apps-enterprise-app-management
           itemType: get-started
           text: Apps with Intune
         - url: /office365/
@@ -79,7 +80,7 @@ conceptualContent:
 additionalContent:
   # Supports up to 3 sections
   sections:
-    - title: Additional resources # < 60 chars (optional)
+    - title: Other resources # < 60 chars (optional)
       summary: Learn more about other Microsoft 365 features and resources. # < 160 chars (optional)
       items:
         # Card
