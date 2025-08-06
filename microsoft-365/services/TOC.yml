@@ -14,7 +14,7 @@ items:
               items:
                 - name: Microsoft 365 Copilot 
                   href: pay-as-you-go-setup-copilot.md
-                - name: Document processing 
+                - name: Document processing & storage services 
                   href: pay-as-you-go-setup.md
             - name: Set up a budget
               href: pay-as-you-go-budget.md

@@ -23,7 +23,7 @@ ms.custom:
 - campaignIDs-batch1
 search.appverid: MET150
 description: "Learn what happens to your data when your Microsoft 365 for business subscription expires, is disabled, or if you cancel."
-ms.date: 02/06/2025
+ms.date: 08/04/2025
 ---
 
 # What happens to my data and access when my Microsoft 365 for business subscription ends?
